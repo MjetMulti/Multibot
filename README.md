@@ -1,2 +1,6 @@
-# multibot
-Python based discord bot
+# Multibot
+
+This is a python based discord bot
+
+Current functionality:
+- nothing :)
